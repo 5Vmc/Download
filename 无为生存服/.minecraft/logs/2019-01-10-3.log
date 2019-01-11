@@ -1,0 +1,128 @@
+[00:02:47] [main/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to gn4.nide8.com, 25597
+[00:02:48] [Netty Client IO #4/INFO] [FML]: Server protocol version 2
+[00:02:48] [main/INFO] [FML]: Injecting existing registry data into this client instance
+[00:02:48] [main/INFO] [FML]: Applying holder lookups
+[00:02:48] [main/INFO] [FML]: Holder lookups applied
+[00:02:48] [Netty Client IO #4/INFO] [FML]: [Netty Client IO #4] Client side modded connection established
+[00:02:49] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [+] Okgogogo
+[00:02:49] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[00:02:49] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 47 advancements
+[00:02:51] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[00:02:53] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[00:02:53] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 成功登录账号
+[00:02:54] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ------------------------ 《》 -------------------------
+[00:02:54] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  !  您已进入无为生存服请开始冒险吧！
+[00:02:54] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  *请输入 "/cc "来打开主菜单
+[00:02:54] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  *请遵守玩家规则，不要说脏话和使用作弊工具
+[00:02:54] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  *希望你在无为度过愉快的时间 ~
+[00:02:54] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ------------------------ ? ? -------------------------
+[00:04:29] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]本服QQ群：259570009，欢迎大家前去交♂流。
+[00:07:22] [main/INFO] [FML]: Applying holder lookups
+[00:07:22] [main/INFO] [FML]: Holder lookups applied
+[00:09:34] [main/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to gn4.nide8.com, 25597
+[00:09:35] [Netty Client IO #7/INFO] [FML]: Server protocol version 2
+[00:09:35] [main/INFO] [FML]: Injecting existing registry data into this client instance
+[00:09:36] [main/INFO] [FML]: Applying holder lookups
+[00:09:36] [main/INFO] [FML]: Holder lookups applied
+[00:09:36] [Netty Client IO #7/INFO] [FML]: [Netty Client IO #7] Client side modded connection established
+[00:09:36] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [+] Okgogogo
+[00:09:36] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[00:09:37] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 47 advancements
+[00:09:38] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[00:09:40] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[00:09:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 成功登录账号
+[00:09:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ------------------------ 《》 -------------------------
+[00:09:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  !  您已进入无为生存服请开始冒险吧！
+[00:09:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  *请输入 "/cc "来打开主菜单
+[00:09:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  *请遵守玩家规则，不要说脏话和使用作弊工具
+[00:09:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  *希望你在无为度过愉快的时间 ~
+[00:09:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ------------------------ ? ? -------------------------
+[00:09:47] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [LP] Running LuckPerms v4.3.73.
+[00:09:47] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [LP] You do not have permission to use any sub commands.
+[00:10:46] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 你最多可以要求 415 领地方块.
+[00:10:46] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 点击这里获取领地创建帮助: http://bit.ly/mcgpuser
+[00:10:46] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Basic 创建领地，在对角再次使用金铲子获取一块领地，如果要取消，将金铲子切换到其他物品.
+[00:10:57] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 你最多可以要求 415 领地方块.
+[00:10:57] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 点击这里获取领地创建帮助: http://bit.ly/mcgpuser
+[00:11:00] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Basic 创建领地，在对角再次使用金铲子获取一块领地，如果要取消，将金铲子切换到其他物品.
+[00:11:06] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Unable to create claim due to error result BELOW_MIN_SIZE_X.
+[00:11:07] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Unable to create claim due to error result BELOW_MIN_SIZE_X.
+[00:11:13] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 你最多可以要求 415 领地方块.
+[00:11:13] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 点击这里获取领地创建帮助: http://bit.ly/mcgpuser
+[00:11:14] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Basic 创建领地，在对角再次使用金铲子获取一块领地，如果要取消，将金铲子切换到其他物品.
+[00:11:19] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 你最多可以要求 415 领地方块.
+[00:11:19] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 点击这里获取领地创建帮助: http://bit.ly/mcgpuser
+[00:11:19] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Basic 创建领地，在对角再次使用金铲子获取一块领地，如果要取消，将金铲子切换到其他物品.
+[00:11:21] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Unable to create claim due to error result BELOW_MIN_SIZE_X.
+[00:11:25] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 你最多可以要求 415 领地方块.
+[00:11:25] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 点击这里获取领地创建帮助: http://bit.ly/mcgpuser
+[00:11:26] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Basic 创建领地，在对角再次使用金铲子获取一块领地，如果要取消，将金铲子切换到其他物品.
+[00:11:27] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Unable to create claim due to error result BELOW_MIN_SIZE_X.
+[00:11:29] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Unable to create claim due to error result BELOW_MIN_SIZE_X.
+[00:11:38] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Unable to create claim due to error result BELOW_MIN_SIZE_Z.
+[00:12:06] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]发现BUG请及时联系腐竹处理，以免回档造成更大损失！
+[00:12:59] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 你最多可以要求 415 领地方块.
+[00:12:59] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 点击这里获取领地创建帮助: http://bit.ly/mcgpuser
+[00:13:04] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Basic 创建领地，在对角再次使用金铲子获取一块领地，如果要取消，将金铲子切换到其他物品.
+[00:13:08] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] BASIC 已经创建，你可以使用 /trust 来跟你的朋友进行分享.
+[00:13:12] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 你最多可以要求 265 领地方块.
+[00:13:12] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 点击这里获取领地创建帮助: http://bit.ly/mcgpuser
+[00:13:15] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 调整领地大小，在另一个角再次使用金铲子.
+[00:13:27] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 你最多可以要求 265 领地方块.
+[00:13:27] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 点击这里获取领地创建帮助: http://bit.ly/mcgpuser
+[00:13:32] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 你已经达到了所持有领地数量的限制，在创建另一个领地之前，请使用/AbandonClaim删除一个你不要的领地。
+[00:13:45] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 请站在你要删除的领地当中，或者用 /AbandonAllClaims删除所有领地.
+[00:13:51] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 未知命令。请使用/help来查看命令列表。
+[00:13:57] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 未知命令。请使用/help来查看命令列表。
+[00:14:08] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 领地已经被删除，你现在有 459 可用的领地方块.
+[00:14:16] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 你最多可以要求 459 领地方块.
+[00:14:16] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 点击这里获取领地创建帮助: http://bit.ly/mcgpuser
+[00:15:06] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]本服QQ群：259570009，欢迎大家前去交♂流。
+[00:18:06] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]腐竹工作了，更新很慢，赞助可以提高他的效率！
+[00:19:20] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] *Okgogogo 似乎离开了。
+[00:21:06] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]头一次开1.12.2的MOD服，稳定性不知如何，希望大家见谅！
+[00:24:06] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]如果你喜欢这里！ 请对陌生人保持谦虚和友好！ 请尽量帮助他人！ 尝试着邀请新玩家来你的家里做客怎么样？
+[00:26:33] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] =================== 物品保护插件 帮助 ====================
+[00:26:33] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /latch version - 显示物品保护插件有关版本信息
+[00:26:33] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /latch private - 创建一个私有保护锁
+[00:26:33] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /latch password [密码] - 创建一个带有指定密码的密码锁
+[00:26:33] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /latch donation - 创建一个公益锁(任意玩家可向里面放东西)
+[00:26:33] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /latch change - 更改箱子的部分属性
+[00:26:33] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /latch delete - 删除一个锁 (前提是你是主人)
+[00:26:33] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /latch persist - 在您所右键点击的锁位置应用您最后输入的指令
+[00:26:33] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /latch info - 查看锁信息 (输入指令后右键点击锁)
+[00:26:33] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /latch list - 查看你所拥有的全部锁名单
+[00:26:33] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /latch limits - 显示你的拥有的锁信息 (已上锁/上锁上限)
+[00:26:33] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /unlock [密码] - 输入密码打开一个密码锁
+[00:26:33] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /latch add [玩家名称] - 允许某个玩家使用该锁
+[00:26:33] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /latch remove [玩家名称] - 移除某个玩家在该锁的允许使用名单中
+[00:26:33] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ====================== ? 1/2 ? =======================
+[00:26:34] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] *Okgogogo 回来了。
+[00:26:45] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Okgogogo>>: 123
+[00:27:06] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]欢迎在群文件，“材质光影”文件夹中分享你喜欢的材质和光影~！[点我加群]
+[00:31:36] [main/INFO] [FML]: Applying holder lookups
+[00:31:36] [main/INFO] [FML]: Holder lookups applied
+[00:35:05] [main/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to gn4.nide8.com, 25597
+[00:35:05] [Netty Client IO #2/INFO] [FML]: Server protocol version 2
+[00:35:06] [main/INFO] [FML]: Injecting existing registry data into this client instance
+[00:35:06] [main/INFO] [FML]: Applying holder lookups
+[00:35:06] [main/INFO] [FML]: Holder lookups applied
+[00:35:06] [Netty Client IO #2/INFO] [FML]: [Netty Client IO #2] Client side modded connection established
+[00:35:07] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [+] Okgogogo
+[00:35:07] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 47 advancements
+[00:35:08] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[00:35:10] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[00:35:11] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ------------------------ 《》 -------------------------
+[00:35:11] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  !  您已进入无为生存服请开始冒险吧！
+[00:35:11] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  *请输入 "/cc "来打开主菜单
+[00:35:11] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  *请遵守玩家规则，不要说脏话和使用作弊工具
+[00:35:11] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  *希望你在无为度过愉快的时间 ~
+[00:35:11] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ------------------------ ? ? -------------------------
+[00:35:12] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[00:35:14] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[00:35:14] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 成功登录账号
+[00:35:16] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] You do not have permission to use this command!
+[00:35:23] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] You do not have permission to use this command!
+[00:35:26] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] You do not have permission to use this command!
+[00:35:31] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [LP] Running LuckPerms v4.3.73.
+[00:35:31] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [LP] You do not have permission to use any sub commands.

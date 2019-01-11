@@ -1,0 +1,443 @@
+// class version 52.0 (52)
+// access flags 0x21
+public class bvv {
+
+  // compiled from: ModelBlockDefinition.java
+
+  @Lnet/minecraftforge/fml/relauncher/SideOnly;(value=Lnet/minecraftforge/fml/relauncher/Side;.CLIENT)
+  // access flags 0x1
+  public INNERCLASS bvv$b bvv b
+  // access flags 0x9
+  public static INNERCLASS bvv$a bvv a
+  // access flags 0x9
+  public static INNERCLASS bwe$a bwe a
+  // access flags 0x9
+  public static INNERCLASS bwd$a bwd a
+  // access flags 0x9
+  public static INNERCLASS bwi$a bwi a
+  // access flags 0x9
+  public static INNERCLASS bwk$a bwk a
+
+  // access flags 0x18
+  final static Lcom/google/gson/Gson; a
+  @Lcom/google/common/annotations/VisibleForTesting;() // invisible
+
+  // access flags 0x12
+  // signature Ljava/util/Map<Ljava/lang/String;Lbwd;>;
+  // declaration: java.util.Map<java.lang.String, bwd>
+  private final Ljava/util/Map; b
+
+  // access flags 0x2
+  private Lbwi; c
+
+  // DEPRECATED
+  // access flags 0x20009
+  public static a(Ljava/io/Reader;)Lbvv;
+  @Ljava/lang/Deprecated;()
+    ALOAD 0
+    GETSTATIC bvv.a : Lcom/google/gson/Gson;
+    INVOKESTATIC codechicken/lib/model/blockstate/CCBlockStateLoader.handleLoad (Ljava/io/Reader;Lcom/google/gson/Gson;)Lnet/minecraft/client/renderer/block/model/ModelBlockDefinition;
+    ARETURN
+   L0
+    LINENUMBER 38 L0
+   FRAME FULL [] [java/lang/Throwable]
+    NOP
+    NOP
+    NOP
+    NOP
+    NOP
+    ATHROW
+   L1
+    LOCALVARIABLE reader Ljava/io/Reader; L0 L1 0
+    MAXSTACK = 2
+    MAXLOCALS = 1
+
+  // access flags 0x9
+  public static parseFromReader(Ljava/io/Reader;Lnf;)Lbvv;
+   L0
+    LINENUMBER 42 L0
+    ALOAD 0
+    ALOAD 1
+    GETSTATIC bvv.a : Lcom/google/gson/Gson;
+    INVOKESTATIC net/minecraftforge/client/model/BlockStateLoader.load (Ljava/io/Reader;Lnf;Lcom/google/gson/Gson;)Lbvv;
+    ARETURN
+   L1
+    LOCALVARIABLE reader Ljava/io/Reader; L0 L1 0
+    LOCALVARIABLE location Lnf; L0 L1 1
+    MAXSTACK = 3
+    MAXLOCALS = 2
+
+  // access flags 0x1
+  // signature (Ljava/util/Map<Ljava/lang/String;Lbwd;>;Lbwi;)V
+  // declaration: void <init>(java.util.Map<java.lang.String, bwd>, bwi)
+  public <init>(Ljava/util/Map;Lbwi;)V
+   L0
+    LINENUMBER 46 L0
+    ALOAD 0
+    INVOKESPECIAL java/lang/Object.<init> ()V
+   L1
+    LINENUMBER 32 L1
+    ALOAD 0
+    INVOKESTATIC com/google/common/collect/Maps.newHashMap ()Ljava/util/HashMap;
+    PUTFIELD bvv.b : Ljava/util/Map;
+   L2
+    LINENUMBER 47 L2
+    ALOAD 0
+    ALOAD 2
+    PUTFIELD bvv.c : Lbwi;
+   L3
+    LINENUMBER 48 L3
+    ALOAD 0
+    GETFIELD bvv.b : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.putAll (Ljava/util/Map;)V
+   L4
+    LINENUMBER 49 L4
+    RETURN
+   L5
+    LOCALVARIABLE this Lbvv; L0 L5 0
+    LOCALVARIABLE variants Ljava/util/Map; L0 L5 1
+    // signature Ljava/util/Map<Ljava/lang/String;Lbwd;>;
+    // declaration: java.util.Map<java.lang.String, bwd>
+    LOCALVARIABLE multipartIn Lbwi; L0 L5 2
+    MAXSTACK = 2
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  // signature (Ljava/util/List<Lbvv;>;)V
+  // declaration: void <init>(java.util.List<bvv>)
+  public <init>(Ljava/util/List;)V
+   L0
+    LINENUMBER 52 L0
+    ALOAD 0
+    INVOKESPECIAL java/lang/Object.<init> ()V
+   L1
+    LINENUMBER 32 L1
+    ALOAD 0
+    INVOKESTATIC com/google/common/collect/Maps.newHashMap ()Ljava/util/HashMap;
+    PUTFIELD bvv.b : Ljava/util/Map;
+   L2
+    LINENUMBER 53 L2
+    ACONST_NULL
+    ASTORE 2
+   L3
+    LINENUMBER 55 L3
+    ALOAD 1
+    INVOKEINTERFACE java/util/List.iterator ()Ljava/util/Iterator;
+    ASTORE 3
+   L4
+   FRAME FULL [bvv java/util/List bvv java/util/Iterator] []
+    ALOAD 3
+    INVOKEINTERFACE java/util/Iterator.hasNext ()Z
+    IFEQ L5
+    ALOAD 3
+    INVOKEINTERFACE java/util/Iterator.next ()Ljava/lang/Object;
+    CHECKCAST bvv
+    ASTORE 4
+   L6
+    LINENUMBER 57 L6
+    ALOAD 4
+    INVOKEVIRTUAL bvv.b ()Z
+    IFEQ L7
+   L8
+    LINENUMBER 59 L8
+    ALOAD 0
+    GETFIELD bvv.b : Ljava/util/Map;
+    INVOKEINTERFACE java/util/Map.clear ()V
+   L9
+    LINENUMBER 60 L9
+    ALOAD 4
+    ASTORE 2
+   L7
+    LINENUMBER 63 L7
+   FRAME FULL [bvv java/util/List bvv java/util/Iterator bvv] []
+    ALOAD 0
+    GETFIELD bvv.b : Ljava/util/Map;
+    ALOAD 4
+    GETFIELD bvv.b : Ljava/util/Map;
+    INVOKEINTERFACE java/util/Map.putAll (Ljava/util/Map;)V
+   L10
+    LINENUMBER 64 L10
+    GOTO L4
+   L5
+    LINENUMBER 66 L5
+   FRAME FULL [bvv java/util/List bvv java/util/Iterator] []
+    ALOAD 2
+    IFNULL L11
+   L12
+    LINENUMBER 68 L12
+    ALOAD 0
+    ALOAD 2
+    GETFIELD bvv.c : Lbwi;
+    PUTFIELD bvv.c : Lbwi;
+   L11
+    LINENUMBER 70 L11
+   FRAME FULL [bvv java/util/List bvv java/util/Iterator] []
+    RETURN
+   L13
+    LOCALVARIABLE modelblockdefinition1 Lbvv; L6 L10 4
+    LOCALVARIABLE this Lbvv; L0 L13 0
+    LOCALVARIABLE p_i46222_1_ Ljava/util/List; L0 L13 1
+    // signature Ljava/util/List<Lbvv;>;
+    // declaration: java.util.List<bvv>
+    LOCALVARIABLE modelblockdefinition Lbvv; L3 L13 2
+    MAXSTACK = 2
+    MAXLOCALS = 5
+
+  // access flags 0x1
+  public b(Ljava/lang/String;)Z
+   L0
+    LINENUMBER 74 L0
+    ALOAD 0
+    GETFIELD bvv.b : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;
+    IFNULL L1
+    ICONST_1
+    GOTO L2
+   L1
+   FRAME FULL [bvv java/lang/String] []
+    ICONST_0
+   L2
+   FRAME FULL [bvv java/lang/String] [I]
+    IRETURN
+   L3
+    LOCALVARIABLE this Lbvv; L0 L3 0
+    LOCALVARIABLE p_188000_1_ Ljava/lang/String; L0 L3 1
+    MAXSTACK = 2
+    MAXLOCALS = 2
+
+  // access flags 0x1
+  public c(Ljava/lang/String;)Lbwd;
+   L0
+    LINENUMBER 79 L0
+    ALOAD 0
+    GETFIELD bvv.b : Ljava/util/Map;
+    ALOAD 1
+    INVOKEINTERFACE java/util/Map.get (Ljava/lang/Object;)Ljava/lang/Object;
+    CHECKCAST bwd
+    ASTORE 2
+   L1
+    LINENUMBER 81 L1
+    ALOAD 2
+    IFNONNULL L2
+   L3
+    LINENUMBER 83 L3
+    NEW bvv$b
+    DUP
+    ALOAD 0
+    INVOKESPECIAL bvv$b.<init> (Lbvv;)V
+    ATHROW
+   L2
+    LINENUMBER 87 L2
+   FRAME FULL [bvv java/lang/String bwd] []
+    ALOAD 2
+    ARETURN
+   L4
+    LOCALVARIABLE this Lbvv; L0 L4 0
+    LOCALVARIABLE p_188004_1_ Ljava/lang/String; L0 L4 1
+    LOCALVARIABLE variantlist Lbwd; L1 L4 2
+    MAXSTACK = 3
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public equals(Ljava/lang/Object;)Z
+   L0
+    LINENUMBER 93 L0
+    ALOAD 0
+    ALOAD 1
+    IF_ACMPNE L1
+   L2
+    LINENUMBER 95 L2
+    ICONST_1
+    IRETURN
+   L1
+    LINENUMBER 99 L1
+   FRAME FULL [bvv java/lang/Object] []
+    ALOAD 1
+    INSTANCEOF bvv
+    IFEQ L3
+   L4
+    LINENUMBER 101 L4
+    ALOAD 1
+    CHECKCAST bvv
+    ASTORE 2
+   L5
+    LINENUMBER 103 L5
+    ALOAD 0
+    GETFIELD bvv.b : Ljava/util/Map;
+    ALOAD 2
+    GETFIELD bvv.b : Ljava/util/Map;
+    INVOKEINTERFACE java/util/Map.equals (Ljava/lang/Object;)Z
+    IFEQ L3
+   L6
+    LINENUMBER 105 L6
+    ALOAD 0
+    INVOKEVIRTUAL bvv.b ()Z
+    IFEQ L7
+    ALOAD 0
+    GETFIELD bvv.c : Lbwi;
+    ALOAD 2
+    GETFIELD bvv.c : Lbwi;
+    INVOKEVIRTUAL bwi.equals (Ljava/lang/Object;)Z
+    GOTO L8
+   L7
+   FRAME FULL [bvv java/lang/Object bvv] []
+    ALOAD 2
+    INVOKEVIRTUAL bvv.b ()Z
+    IFNE L9
+    ICONST_1
+    GOTO L8
+   L9
+   FRAME FULL [bvv java/lang/Object bvv] []
+    ICONST_0
+   L8
+   FRAME FULL [bvv java/lang/Object bvv] [I]
+    IRETURN
+   L3
+    LINENUMBER 109 L3
+   FRAME FULL [bvv java/lang/Object] []
+    ICONST_0
+    IRETURN
+   L10
+    LOCALVARIABLE modelblockdefinition Lbvv; L5 L3 2
+    LOCALVARIABLE this Lbvv; L0 L10 0
+    LOCALVARIABLE p_equals_1_ Ljava/lang/Object; L0 L10 1
+    MAXSTACK = 2
+    MAXLOCALS = 3
+
+  // access flags 0x1
+  public hashCode()I
+   L0
+    LINENUMBER 115 L0
+    BIPUSH 31
+    ALOAD 0
+    GETFIELD bvv.b : Ljava/util/Map;
+    INVOKEINTERFACE java/util/Map.hashCode ()I
+    IMUL
+    ALOAD 0
+    INVOKEVIRTUAL bvv.b ()Z
+    IFEQ L1
+    ALOAD 0
+    GETFIELD bvv.c : Lbwi;
+    INVOKEVIRTUAL bwi.hashCode ()I
+    GOTO L2
+   L1
+   FRAME FULL [bvv] [I]
+    ICONST_0
+   L2
+   FRAME FULL [bvv] [I I]
+    IADD
+    IRETURN
+   L3
+    LOCALVARIABLE this Lbvv; L0 L3 0
+    MAXSTACK = 2
+    MAXLOCALS = 1
+
+  // access flags 0x1
+  // signature ()Ljava/util/Set<Lbwd;>;
+  // declaration: java.util.Set<bwd> a()
+  public a()Ljava/util/Set;
+   L0
+    LINENUMBER 120 L0
+    ALOAD 0
+    GETFIELD bvv.b : Ljava/util/Map;
+    INVOKEINTERFACE java/util/Map.values ()Ljava/util/Collection;
+    INVOKESTATIC com/google/common/collect/Sets.newHashSet (Ljava/lang/Iterable;)Ljava/util/HashSet;
+    ASTORE 1
+   L1
+    LINENUMBER 122 L1
+    ALOAD 0
+    INVOKEVIRTUAL bvv.b ()Z
+    IFEQ L2
+   L3
+    LINENUMBER 124 L3
+    ALOAD 1
+    ALOAD 0
+    GETFIELD bvv.c : Lbwi;
+    INVOKEVIRTUAL bwi.b ()Ljava/util/Set;
+    INVOKEINTERFACE java/util/Set.addAll (Ljava/util/Collection;)Z
+    POP
+   L2
+    LINENUMBER 127 L2
+   FRAME FULL [bvv java/util/HashSet] []
+    ALOAD 1
+    ARETURN
+   L4
+    LOCALVARIABLE this Lbvv; L0 L4 0
+    LOCALVARIABLE set Ljava/util/Set; L1 L4 1
+    // signature Ljava/util/Set<Lbwd;>;
+    // declaration: java.util.Set<bwd>
+    MAXSTACK = 2
+    MAXLOCALS = 2
+
+  // access flags 0x1
+  public b()Z
+   L0
+    LINENUMBER 132 L0
+    ALOAD 0
+    GETFIELD bvv.c : Lbwi;
+    IFNULL L1
+    ICONST_1
+    GOTO L2
+   L1
+   FRAME FULL [bvv] []
+    ICONST_0
+   L2
+   FRAME FULL [bvv] [I]
+    IRETURN
+   L3
+    LOCALVARIABLE this Lbvv; L0 L3 0
+    MAXSTACK = 1
+    MAXLOCALS = 1
+
+  // access flags 0x1
+  public c()Lbwi;
+   L0
+    LINENUMBER 137 L0
+    ALOAD 0
+    GETFIELD bvv.c : Lbwi;
+    ARETURN
+   L1
+    LOCALVARIABLE this Lbvv; L0 L1 0
+    MAXSTACK = 1
+    MAXLOCALS = 1
+
+  // access flags 0x8
+  static <clinit>()V
+   L0
+    LINENUMBER 31 L0
+    NEW com/google/gson/GsonBuilder
+    DUP
+    INVOKESPECIAL com/google/gson/GsonBuilder.<init> ()V
+    LDC Lbvv;.class
+    NEW bvv$a
+    DUP
+    INVOKESPECIAL bvv$a.<init> ()V
+    INVOKEVIRTUAL com/google/gson/GsonBuilder.registerTypeAdapter (Ljava/lang/reflect/Type;Ljava/lang/Object;)Lcom/google/gson/GsonBuilder;
+    LDC Lbwe;.class
+    NEW bwe$a
+    DUP
+    INVOKESPECIAL bwe$a.<init> ()V
+    INVOKEVIRTUAL com/google/gson/GsonBuilder.registerTypeAdapter (Ljava/lang/reflect/Type;Ljava/lang/Object;)Lcom/google/gson/GsonBuilder;
+    LDC Lbwd;.class
+    NEW bwd$a
+    DUP
+    INVOKESPECIAL bwd$a.<init> ()V
+    INVOKEVIRTUAL com/google/gson/GsonBuilder.registerTypeAdapter (Ljava/lang/reflect/Type;Ljava/lang/Object;)Lcom/google/gson/GsonBuilder;
+    LDC Lbwi;.class
+    NEW bwi$a
+    DUP
+    INVOKESPECIAL bwi$a.<init> ()V
+    INVOKEVIRTUAL com/google/gson/GsonBuilder.registerTypeAdapter (Ljava/lang/reflect/Type;Ljava/lang/Object;)Lcom/google/gson/GsonBuilder;
+    LDC Lbwk;.class
+    NEW bwk$a
+    DUP
+    INVOKESPECIAL bwk$a.<init> ()V
+    INVOKEVIRTUAL com/google/gson/GsonBuilder.registerTypeAdapter (Ljava/lang/reflect/Type;Ljava/lang/Object;)Lcom/google/gson/GsonBuilder;
+    INVOKEVIRTUAL com/google/gson/GsonBuilder.create ()Lcom/google/gson/Gson;
+    PUTSTATIC bvv.a : Lcom/google/gson/Gson;
+    RETURN
+    MAXSTACK = 4
+    MAXLOCALS = 0
+}

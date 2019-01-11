@@ -1,0 +1,463 @@
+[22:05:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:05:16] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:05:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:05:16] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2768 for Minecraft 1.12.2 loading
+[22:05:16] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_181, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_181
+[22:05:16] [main/INFO] [FML]: Searching C:\Users\Sheng\Desktop\无为生存服\.minecraft\mods for mods
+[22:05:16] [main/INFO] [FML]: Searching C:\Users\Sheng\Desktop\无为生存服\.minecraft\mods\1.12.2 for mods
+[22:05:16] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E3.jar
+[22:05:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:05:16] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[22:05:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:05:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:05:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:05:16] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[22:05:16] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[22:05:16] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[22:05:16] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ClassTransformer
+[22:05:16] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:221]: OptiFine ZIP file: C:\Users\Sheng\Desktop\无为生存服\.minecraft\mods\OptiFine_1.12.2_HD_U_E3.jar
+[22:05:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:05:21] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:05:21] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[22:05:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:05:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:05:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:05:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:05:22] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[22:05:22] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[22:05:25] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: Okgogogo
+[22:05:34] [main/INFO] [Config]: [OptiFine] *** Reflector Forge ***
+[22:05:34] [main/INFO] [Config]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[22:05:35] [main/INFO] [Config]: [OptiFine] (Reflector) Method not present: net.minecraftforge.client.ForgeHooksClient.renderLitItem
+[22:05:35] [main/INFO] [Config]: [OptiFine] (Reflector) Field not present: net.minecraftforge.common.ForgeModContainer.allowEmissiveItems
+[22:05:35] [main/INFO] [Config]: [OptiFine] (Reflector) Method not present: net.minecraft.potion.Potion.renderHUDEffect
+[22:05:35] [main/INFO] [Config]: [OptiFine] (Reflector) Method not present: net.minecraftforge.client.MinecraftForgeClient.getImageLayer
+[22:05:36] [main/INFO] [Config]: [OptiFine] *** Reflector Vanilla ***
+[22:05:36] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[22:05:36] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[22:05:39] [main/INFO] [Config]: [OptiFine] 
+[22:05:39] [main/INFO] [Config]: [OptiFine] OptiFine_1.12.2_HD_U_E3
+[22:05:39] [main/INFO] [Config]: [OptiFine] Build: 20181210-121000
+[22:05:39] [main/INFO] [Config]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[22:05:39] [main/INFO] [Config]: [OptiFine] Java: 1.8.0_181, Oracle Corporation
+[22:05:39] [main/INFO] [Config]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[22:05:39] [main/INFO] [Config]: [OptiFine] LWJGL: 2.9.4
+[22:05:39] [main/INFO] [Config]: [OptiFine] OpenGL: GeForce GTX 770/PCIe/SSE2, version 4.6.0 NVIDIA 398.36, NVIDIA Corporation
+[22:05:39] [main/INFO] [Config]: [OptiFine] OpenGL Version: 4.6.0
+[22:05:39] [main/INFO] [Config]: [OptiFine] Maximum texture size: 16384x16384
+[22:05:39] [VersionCheck/INFO] [Config]: [OptiFine] Checking for new version
+[22:05:40] [main/INFO] [net.optifine.shaders.SMCLog]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 398.36
+[22:05:40] [main/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Vendor:  NVIDIA Corporation
+[22:05:40] [main/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Renderer: GeForce GTX 770/PCIe/SSE2
+[22:05:40] [main/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[22:05:40] [main/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[22:05:40] [main/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[22:05:40] [main/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[22:05:40] [main/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Load shaders configuration.
+[22:05:40] [main/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Save shaders configuration.
+[22:05:40] [main/INFO] [net.optifine.shaders.SMCLog]: [Shaders] No shaderpack loaded.
+[22:05:40] [main/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
+[22:05:41] [main/INFO] [FML]: Forge Mod Loader has detected optifine OptiFine_1.12.2_HD_U_E3, enabling compatibility features
+[22:05:41] [main/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_181, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 536059232 bytes (511 MB) / 768081920 bytes (732 MB) up to 2143813632 bytes (2044 MB)
+	JVM Flags: 2 total; -Xmx2300m -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 398.36' Renderer: 'GeForce GTX 770/PCIe/SSE2'
+[22:05:41] [main/INFO] [FML]: MinecraftForge v14.23.5.2768 Initialized
+[22:05:41] [main/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:05:41] [main/INFO] [FML]: Replaced 1036 ore ingredients
+[22:05:41] [main/INFO] [FML]: Searching C:\Users\Sheng\Desktop\无为生存服\.minecraft\mods for mods
+[22:05:41] [main/INFO] [FML]: Searching C:\Users\Sheng\Desktop\无为生存服\.minecraft\mods\1.12.2 for mods
+[22:05:43] [main/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.40.824
+[22:05:43] [main/WARN] [FML]: Mod compactsolars is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-5.0.15.338
+[22:05:43] [main/INFO] [FML]: Forge Mod Loader has identified 11 mods to load
+[22:05:44] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, ic2, advanced_machines, advanced_solar_panels, gravisuite, tri_addon, ironchest, compactsolars] at CLIENT
+[22:05:44] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, ic2, advanced_machines, advanced_solar_panels, gravisuite, tri_addon, ironchest, compactsolars] at SERVER
+[22:05:45] [main/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:IndustrialCraft 2, FMLFileResourcePack:Advanced Machines, FMLFileResourcePack:Advanced Solar Panels, FMLFileResourcePack:Gravitation Suite, FMLFileResourcePack:Tri-Addon Controller, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Compact Solar Arrays
+[22:05:45] [main/INFO] [FML]: Processing ObjectHolder annotations
+[22:05:45] [main/INFO] [FML]: Found 1203 ObjectHolder annotations
+[22:05:45] [main/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:05:45] [main/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:05:46] [main/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:05:46] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:05:47] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[22:05:48] [main/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_machines` for name `rotary_macerator`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:48] [main/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_machines` for name `singularity_compressor`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:48] [main/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_machines` for name `centrifuge_extractor`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:48] [main/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_machines` for name `compacting_recycler`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:48] [main/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_machines` for name `liquescent_extruder`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:48] [main/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_machines` for name `impellerized_roller`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:48] [main/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_machines` for name `water_jet_cutter`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:48] [main/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_machines` for name `thermal_washer`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:48] [main/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `molecular_transformer`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:48] [main/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `quantum_generator`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:48] [main/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `advanced_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:48] [main/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `hybrid_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:48] [main/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `ultimate_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:48] [main/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `quantum_solar_panel`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:48] [main/WARN] [FML]: Potentially Dangerous alternative prefix `advanced_solar_panels` for name `fake_teleporter`, expected `ic2`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:50] [Thread-3/INFO] [FML]: Using alternative sync timing : 200 frames of Display.update took 6217367577 nanos
+[22:05:52] [VersionCheck/INFO] [Config]: [OptiFine] Version found: D3
+[22:05:54] [main/WARN] [ic2.Item]: The item tritium_fuel_rod is not initialized.
+[22:05:54] [main/WARN] [ic2.Item]: The item plasma_launcher is not initialized.
+[22:05:54] [main/WARN] [ic2.Block]: The fluid deuterium is not initialized.
+[22:05:54] [main/INFO] [advanced_solar_panels]: Loading ASP Config from C:\Users\Sheng\Desktop\无为生存服\.minecraft\config\advanced_solar_panels.cfg
+[22:05:54] [main/INFO] [advanced_solar_panels]: Loading MT Recipes from C:\Users\Sheng\Desktop\无为生存服\.minecraft\config\advanced_solar_panels_MTRecipes.cfg
+[22:05:54] [main/INFO] [gravisuite]: Loading GS Config from C:\Users\Sheng\Desktop\无为生存服\.minecraft\config\gravisuite.cfg
+[22:05:54] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:54] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:54] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:54] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:54] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:54] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:54] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:54] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:54] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:54] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:54] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:54] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:54] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:54] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:54] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:54] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `compactsolartype.low_voltage`, expected `compactsolars`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:54] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `compactsolartype.medium_voltage`, expected `compactsolars`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:54] [main/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `compactsolartype.high_voltage`, expected `compactsolars`. This could be a intended override, but in most cases indicates a broken mod.
+[22:05:54] [main/INFO] [FML]: Applying holder lookups
+[22:05:55] [main/INFO] [FML]: Holder lookups applied
+[22:05:55] [main/INFO] [FML]: Applying holder lookups
+[22:05:55] [main/INFO] [FML]: Holder lookups applied
+[22:05:55] [main/INFO] [FML]: Applying holder lookups
+[22:05:55] [main/INFO] [FML]: Holder lookups applied
+[22:05:55] [main/INFO] [FML]: Applying holder lookups
+[22:05:55] [main/INFO] [FML]: Holder lookups applied
+[22:05:55] [main/INFO] [FML]: Injecting itemstacks
+[22:05:55] [main/INFO] [FML]: Itemstack injection complete
+[22:05:55] [main/INFO] [Config]: [OptiFine] *** Reloading textures ***
+[22:05:55] [main/INFO] [Config]: [OptiFine] Resource packs: Default
+[22:05:58] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[22:05:58] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[22:05:58] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:06:01] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[22:06:01] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[22:06:02] [main/INFO] [Config]: [OptiFine] Mipmap levels: 4
+[22:06:02] [main/INFO] [Config]: [OptiFine] Multitexture: false
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+[22:06:02] [main/INFO] [Config]: [OptiFine] Multipass connected textures: false
+[22:06:02] [main/INFO] [Config]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[22:06:07] [main/INFO] [Config]: [OptiFine] Custom loader sprites: 3
+[22:06:07] [main/INFO] [Config]: [OptiFine] Sprite dependencies: 5
+[22:06:07] [main/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 2048x1024 textures-atlas
+[22:06:07] [main/INFO] [Config]: [OptiFine] Animated sprites: 47
+[22:06:10] [main/INFO] [FML]: Applying holder lookups
+[22:06:10] [main/INFO] [FML]: Holder lookups applied
+[22:06:10] [main/INFO] [ic2.Recipe]: Successfully loaded 328 out of 328 recipes for shaped recipes
+[22:06:10] [main/INFO] [ic2.Recipe]: Successfully loaded 73 out of 73 recipes for shapeless recipes
+[22:06:10] [main/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[22:06:10] [main/INFO] [ic2.Recipe]: Successfully loaded 17 out of 17 recipes for block cutter recipes
+[22:06:10] [main/INFO] [ic2.Recipe]: Successfully loaded 49 out of 49 recipes for compressor recipes
+[22:06:10] [main/INFO] [ic2.Recipe]: Successfully loaded 12 out of 12 recipes for extractor recipes
+[22:06:10] [main/INFO] [ic2.Recipe]: Successfully loaded 74 out of 74 recipes for macerator recipes
+[22:06:10] [main/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[22:06:10] [main/INFO] [ic2.Recipe]: Successfully loaded 9 out of 9 recipes for metal former extruding recipes
+[22:06:10] [main/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[22:06:10] [main/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[22:06:10] [main/INFO] [ic2.Recipe]: Successfully loaded 25 out of 25 recipes for thermal centrifuge recipes
+[22:06:11] [main/INFO] [advanced_machines]: Successfully loaded 0 out of 0 recipes for rotary macerator recipes
+[22:06:11] [main/INFO] [advanced_machines]: Successfully loaded 0 out of 0 recipes for singularity compressor recipes
+[22:06:11] [main/INFO] [advanced_machines]: Successfully loaded 0 out of 0 recipes for centrifuge extractor recipes
+[22:06:11] [main/INFO] [advanced_machines]: Successfully loaded 1 out of 1 recipes for compacting recycler recipes
+[22:06:11] [main/INFO] [advanced_machines]: Successfully loaded 0 out of 0 recipes for liquescent extruder recipes
+[22:06:11] [main/INFO] [advanced_machines]: Successfully loaded 0 out of 0 recipes for impellerized roller recipes
+[22:06:11] [main/INFO] [advanced_machines]: Successfully loaded 0 out of 0 recipes for water jet cutter recipes
+[22:06:11] [main/INFO] [advanced_machines]: Successfully loaded 0 out of 0 recipes for thermal washer recipes
+[22:06:11] [main/INFO] [advanced_solar_panels]: Loading Molecular Transformer recipes from file
+[22:06:11] [main/WARN] [advanced_solar_panels]: Skipping line 23 as the output (OreDict:gemSapphire) cannot be resolved
+[22:06:11] [main/WARN] [advanced_solar_panels]: Skipping line 24 as the output (OreDict:gemRuby) cannot be resolved
+[22:06:11] [main/WARN] [advanced_solar_panels]: Skipping line 27 as the output (OreDict:dustChrome) cannot be resolved
+[22:06:11] [main/WARN] [advanced_solar_panels]: Skipping line 28 as the output (OreDict:ingotChrome) cannot be resolved
+[22:06:11] [main/WARN] [advanced_solar_panels]: Skipping line 29 as the output (OreDict:gemCertusQuartz) cannot be resolved
+[22:06:11] [main/WARN] [advanced_solar_panels]: Skipping line 30 as the output (OreDict:ingotNickel) cannot be resolved
+[22:06:11] [main/WARN] [advanced_solar_panels]: Skipping line 33 as the output (OreDict:ingotPlatinum) cannot be resolved
+[22:06:11] [main/INFO] [advanced_solar_panels]: Load complete, successfully loaded 15 out of 22.
+[22:06:11] [main/INFO] [FML]: Injecting itemstacks
+[22:06:11] [main/INFO] [FML]: Itemstack injection complete
+[22:06:11] [main/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[22:06:11] [main/INFO] [ic2.General]: ic2 version 2.8.9-ex112 loaded.
+[22:06:11] [main/INFO] [advanced_machines]: Advanced Machines 1.3 loaded.
+[22:06:12] [main/INFO] [FML]: Forge Mod Loader has successfully loaded 11 mods
+[22:06:12] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[22:06:12] [main/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[22:06:13] [main/INFO] [Config]: [OptiFine] *** Reloading custom textures ***
+[22:06:14] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
+[22:07:04] [main/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to gn4.nide8.com, 25597
+[22:07:05] [Netty Client IO #1/INFO] [FML]: Server protocol version 2
+[22:07:05] [main/INFO] [FML]: Injecting existing registry data into this client instance
+[22:07:05] [main/INFO] [FML]: Applying holder lookups
+[22:07:05] [main/INFO] [FML]: Holder lookups applied
+[22:07:05] [Netty Client IO #1/INFO] [FML]: [Netty Client IO #1] Client side modded connection established
+[22:07:08] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ---------------------- WARNING -----------------------
+[22:07:08] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your player has the `nucleus` or `*` permission set. This is not recommended. Side effects may include not being able to go AFK and being vanished on login.
+[22:07:08] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] We recommend using our `nucleus setupperms` command to setup your permissions instead.
+[22:07:08] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Click here or visit the Nucleus ore site for an explanation for why the wildcard is bad.
+[22:07:08] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] (This message may also be disabled using the config, disable "core.check-for-wildcard")
+[22:07:08] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ------------------------ ? ? -------------------------
+[22:07:08] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] You are currently vanished.
+[22:07:08] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 47 advancements
+[22:07:08] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[22:07:09] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[22:07:11] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ------------------------ 《》 -------------------------
+[22:07:11] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  !  您已进入无为生存服请开始冒险吧！
+[22:07:11] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  *请输入 "/cc "来打开主菜单
+[22:07:11] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  *请遵守玩家规则，不要说脏话和使用作弊工具
+[22:07:11] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  *希望你在无为度过愉快的时间 ~
+[22:07:11] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ------------------------ ? ? -------------------------
+[22:07:11] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[22:07:13] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[22:07:14] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 成功登录账号
+[22:07:31] [main/INFO] [net.minecraf[22:07:42] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 你没有权限创建领地.
+[22:07:46] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 你没有权限创建领地.
+[22:08:27] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] You have teleported to Okgogogo's location.
+[22:08:54] [Texture Downloader #2/ERROR] [net.minecraft.client.renderer.ThreadDownloadImageData]: Couldn't download http texture: java.net.SocketTimeoutException: connect timed out
+[22:09:10] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]头一次开1.12.2的MOD服，稳定性不知如何，希望大家见谅！
+[22:12:10] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]如果你喜欢这里！ 请对陌生人保持谦虚和友好！ 请尽量帮助他人！ 尝试着邀请新玩家来你的家里做客怎么样？
+[22:15:10] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]欢迎在群文件，“材质光影”文件夹中分享你喜欢的材质和光影~！[点我加群]
+[22:15:12] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] *Test 似乎离开了。
+[22:18:10] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]请记住我们的永久群号——259570009[点我加群]
+[22:21:10] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]Hi Test！欢迎使用玩家商店哦！ 点我带你去看看！
+[22:24:10] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]发现BUG请及时联系腐竹处理，以免回档造成更大损失！
+[22:27:10] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]本服QQ群：259570009，欢迎大家前去交♂流。
+[22:30:08] [main/INFO] [FML]: Applying holder lookups
+[22:30:08] [main/INFO] [FML]: Holder lookups applied
+[22:31:36] [main/ERROR] [net.minecraft.client.network.ServerPinger]: Can't ping gn4.nide8.com:25597: Internal Exception: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+[22:32:00] [main/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to gn4.nide8.com, 25597
+[22:32:00] [Netty Client IO #5/INFO] [FML]: Server protocol version 2
+[22:32:00] [main/INFO] [FML]: Injecting existing registry data into this client instance
+[22:32:01] [main/INFO] [FML]: Applying holder lookups
+[22:32:01] [main/INFO] [FML]: Holder lookups applied
+[22:32:01] [Netty Client IO #5/INFO] [FML]: [Netty Client IO #5] Client side modded connection established
+[22:32:02] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [+] Test
+[22:32:02] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[22:32:02] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 24 advancements
+[22:32:03] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[22:32:05] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[22:32:06] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 成功登录账号
+[22:32:08] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Test: 1
+[22:33:22] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Test: 1
+[22:33:27] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Test: t1
+[22:33:28] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Test: t
+[22:33:29] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Test: t
+[22:33:29] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Test: t
+[22:33:30] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Test: t
+[22:33:30] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Test: t
+[22:33:31] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Test: t
+[22:33:31] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Test: t
+[22:33:32] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Test: t
+[22:33:32] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Test: t
+[22:33:32] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Test: t
+[22:33:33] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Test: t
+[22:33:34] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Test: t
+[22:33:34] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Test: t
+[22:33:36] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Test: t
+[22:33:57] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Test被Zombie杀死了
+[22:33:57] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 33 advancements
+[22:34:07] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] You do not have permission to use this command!
+[22:34:40] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]发现BUG请及时联系腐竹处理，以免回档造成更大损失！
+[22:34:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] You have teleported to Okgogogo's location.
+[22:34:47] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] You have been healed.
+[22:34:56] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] You have been healed.
+[22:35:00] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] You have been healed.
+[22:35:03] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] You have been healed.
+[22:37:40] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]本服QQ群：259570009，欢迎大家前去交♂流。
+[22:38:21] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] list
+[22:40:12] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] *Test 似乎离开了。
+[22:40:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]腐竹工作了，更新很慢，赞助可以提高他的效率！
+[22:43:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]头一次开1.12.2的MOD服，稳定性不知如何，希望大家见谅！
+[22:46:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]如果你喜欢这里！ 请对陌生人保持谦虚和友好！ 请尽量帮助他人！ 尝试着邀请新玩家来你的家里做客怎么样？
+[22:49:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]欢迎在群文件，“材质光影”文件夹中分享你喜欢的材质和光影~！[点我加群]
+[22:55:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]发现BUG请及时联系腐竹处理，以免回档造成更大损失！
+[22:58:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]本服QQ群：259570009，欢迎大家前去交♂流。
+[23:01:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]腐竹工作了，更新很慢，赞助可以提高他的效率！
+[23:04:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]头一次开1.12.2的MOD服，稳定性不知如何，希望大家见谅！
+[23:07:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]如果你喜欢这里！ 请对陌生人保持谦虚和友好！ 请尽量帮助他人！ 尝试着邀请新玩家来你的家里做客怎么样？
+[23:10:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]欢迎在群文件，“材质光影”文件夹中分享你喜欢的材质和光影~！[点我加群]
+[23:16:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]发现BUG请及时联系腐竹处理，以免回档造成更大损失！
+[23:19:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]本服QQ群：259570009，欢迎大家前去交♂流。
+[23:22:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]腐竹工作了，更新很慢，赞助可以提高他的效率！
+[23:25:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]头一次开1.12.2的MOD服，稳定性不知如何，希望大家见谅！
+[23:28:42] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]如果你喜欢这里！ 请对陌生人保持谦虚和友好！ 请尽量帮助他人！ 尝试着邀请新玩家来你的家里做客怎么样？
+[23:31:42] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]欢迎在群文件，“材质光影”文件夹中分享你喜欢的材质和光影~！[点我加群]
+[23:32:14] [main/INFO] [FML]: Applying holder lookups
+[23:32:14] [main/INFO] [FML]: Holder lookups applied
+[22:58:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]本服QQ群：259570009，欢迎大家前去交♂流。
+[23:01:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]腐竹工作了，更新很慢，赞助可以提高他的效率！
+[23:04:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]头一次开1.12.2的MOD服，稳定性不知如何，希望大家见谅！
+[23:07:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]如果你喜欢这里！ 请对陌生人保持谦虚和友好！ 请尽量帮助他人！ 尝试着邀请新玩家来你的家里做客怎么样？
+[23:10:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]欢迎在群文件，“材质光影”文件夹中分享你喜欢的材质和光影~！[点我加群]
+[23:16:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]发现BUG请及时联系腐竹处理，以免回档造成更大损失！
+[23:19:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]本服QQ群：259570009，欢迎大家前去交♂流。
+[23:22:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]腐竹工作了，更新很慢，赞助可以提高他的效率！
+[23:25:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]头一次开1.12.2的MOD服，稳定性不知如何，希望大家见谅！
+[23:28:42] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]如果你喜欢这里！ 请对陌生人保持谦虚和友好！ 请尽量帮助他人！ 尝试着邀请新玩家来你的家里做客怎么样？
+[23:31:42] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]欢迎在群文件，“材质光影”文件夹中分享你喜欢的材质和光影~！[点我加群]
+[23:32:14] [main/INFO] [FML]: Applying holder lookups
+[23:32:14] [main/INFO] [FML]: Holder lookups applied
+[23:34:17] [main/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to gn4.nide8.com, 25597
+[23:34:18] [Netty Client IO #1/INFO] [FML]: Server protocol version 2
+[23:34:18] [main/INFO] [FML]: Injecting existing registry data into this client instance
+[23:34:18] [main/INFO] [FML]: Applying holder lookups
+[23:34:18] [main/INFO] [FML]: Holder lookups applied
+[23:34:18] [Netty Client IO #1/INFO] [FML]: [Netty Client IO #1] Client side modded connection established
+[23:34:19] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ---------------------- WARNING -----------------------
+[23:34:19] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Your player has the `nucleus` or `*` permission set. This is not recommended. Side effects may include not being able to go AFK and being vanished on login.
+[23:34:19] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] We recommend using our `nucleus setupperms` command to setup your permissions instead.
+[23:34:19] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Click here or visit the Nucleus ore site for an explanation for why the wildcard is bad.
+[23:34:19] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] (This message may also be disabled using the config, disable "core.check-for-wildcard")
+[23:34:19] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ------------------------ ? ? -------------------------
+[23:34:19] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] You are currently vanished.
+[23:34:20] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[23:34:20] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 47 advancements
+[23:34:22] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[23:34:24] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[23:34:24] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ------------------------ 《》 -------------------------
+[23:34:24] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  !  您已进入无为生存服请开始冒险吧！
+[23:34:24] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  *请输入 "/cc "来打开主菜单
+[23:34:24] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  *请遵守玩家规则，不要说脏话和使用作弊工具
+[23:34:24] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  *希望你在无为度过愉快的时间 ~
+[23:34:24] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ------------------------ ? ? -------------------------
+[23:34:26] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[23:34:27] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 成功登录账号
+[23:34:29] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [LP] admin already exists!
+[23:34:48] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [LP] Group Sub Commands: (/lp group <group> ...)
+[23:34:48] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] > info
+[23:34:48] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] > permission
+[23:34:48] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] > parent
+[23:34:48] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] > meta
+[23:34:48] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] > editor
+[23:34:48] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] > listmembers - [page] 
+[23:34:48] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] > setweight - <weight> 
+[23:34:48] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] > setdisplayname - <name> [context...] 
+[23:34:48] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] > showtracks
+[23:34:48] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] > clear - [context...] 
+[23:34:48] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] > rename - <name> 
+[23:34:48] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] > clone - <name> 
+[23:35:05] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [LP] > Group Info: admin\n[LP] - Display Name: admin\n[LP] - Weight: None
+[23:35:33] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [LP] Set minecraft.command.ban to true for admin in context global.
+[23:36:53] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]发现BUG请及时联系腐竹处理，以免回档造成更大损失！
+[23:38:21] [main/INFO] [FML]: Applying holder lookups
+[23:38:21] [main/INFO] [FML]: Holder lookups applied
+[23:39:21] [main/ERROR] [net.minecraft.client.network.ServerPinger]: Can't ping gs4.nide8.com:25597: Internal Exception: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+[23:40:05] [main/ERROR] [net.minecraft.client.network.ServerPinger]: Can't ping gs4.nide8.com:25597: Internal Exception: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+[23:40:18] [main/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to gn4.nide8.com, 25597
+[23:40:19] [Netty Client IO #4/INFO] [FML]: Server protocol version 2
+[23:40:19] [main/INFO] [FML]: Injecting existing registry data into this client instance
+[23:40:19] [main/INFO] [FML]: Applying holder lookups
+[23:40:19] [main/INFO] [FML]: Holder lookups applied
+[23:40:19] [Netty Client IO #4/INFO] [FML]: [Netty Client IO #4] Client side modded connection established
+[23:40:20] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [+] Okgogogo
+[23:40:20] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 47 advancements
+[23:40:20] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未注册. 请输入 /reg 密码 密码 进行注册
+[23:40:22] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未注册. 请输入 /reg 密码 密码 进行注册
+[23:40:24] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未注册. 请输入 /reg 密码 密码 进行注册
+[23:40:26] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未注册. 请输入 /reg 密码 密码 进行注册
+[23:40:28] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未注册. 请输入 /reg 密码 密码 进行注册
+[23:40:28] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 成功创建账号
+[23:40:33] [main/INFO] [FML]: Applying holder lookups
+[23:40:33] [main/INFO] [FML]: Holder lookups applied
+[23:40:35] [main/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to gn4.nide8.com, 25597
+[23:40:35] [Netty Client IO #7/INFO] [FML]: Server protocol version 2
+[23:40:36] [main/INFO] [FML]: Injecting existing registry data into this client instance
+[23:40:36] [main/INFO] [FML]: Applying holder lookups
+[23:40:36] [main/INFO] [FML]: Holder lookups applied
+[23:40:36] [Netty Client IO #7/INFO] [FML]: [Netty Client IO #7] Client side modded connection established
+[23:40:37] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [+] Okgogogo
+[23:40:37] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 47 advancements
+[23:40:37] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[23:40:38] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[23:40:40] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 成功登录账号
+[23:40:57] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] You do not have permission to use this command!
+[23:41:15] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Okgogogo: 1
+[23:43:16] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]发现BUG请及时联系腐竹处理，以免回档造成更大损失！
+[23:43:50] [main/INFO] [FML]: Applying holder lookups
+[23:43:50] [main/INFO] [FML]: Holder lookups applied
+[23:45:30] [main/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to gn4.nide8.com, 25597
+[23:45:31] [Netty Client IO #6/INFO] [FML]: Server protocol version 2
+[23:45:31] [main/INFO] [FML]: Injecting existing registry data into this client instance
+[23:45:31] [main/INFO] [FML]: Applying holder lookups
+[23:45:31] [main/INFO] [FML]: Holder lookups applied
+[23:45:31] [Netty Client IO #6/INFO] [FML]: [Netty Client IO #6] Client side modded connection established
+[23:45:32] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [+] Okgogogo
+[23:45:32] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 47 advancements
+[23:45:33] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未注册. 请输入 /reg 密码 密码 进行注册
+[23:45:35] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未注册. 请输入 /reg 密码 密码 进行注册
+[23:45:36] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 账号不存在
+[23:45:37] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未注册. 请输入 /reg 密码 密码 进行注册
+[23:45:39] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未注册. 请输入 /reg 密码 密码 进行注册
+[23:45:41] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 成功创建账号
+[23:48:27] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]发现BUG请及时联系腐竹处理，以免回档造成更大损失！
+[23:50:44] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] *Okgogogo 似乎离开了。
+[23:51:21] [main/INFO] [FML]: Applying holder lookups
+[23:51:21] [main/INFO] [FML]: Holder lookups applied
+[23:53:51] [main/INFO] [net.minecraft.client.multiplayer.GuiConnecting]: Connecting to gn4.nide8.com, 25597
+[23:53:51] [Netty Client IO #1/INFO] [FML]: Server protocol version 2
+[23:53:51] [main/INFO] [FML]: Injecting existing registry data into this client instance
+[23:53:52] [main/INFO] [FML]: Applying holder lookups
+[23:53:52] [main/INFO] [FML]: Holder lookups applied
+[23:53:52] [Netty Client IO #1/INFO] [FML]: [Netty Client IO #1] Client side modded connection established
+[23:53:53] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [+] Okgogogo
+[23:53:53] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[23:53:53] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 47 advancements
+[23:53:55] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[23:53:57] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 尚未登录. 请输入 /login 密码 进行登录
+[23:53:58] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ------------------------ 《》 -------------------------
+[23:53:58] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  !  您已进入无为生存服请开始冒险吧！
+[23:53:58] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  *请输入 "/cc "来打开主菜单
+[23:53:58] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  *请遵守玩家规则，不要说脏话和使用作弊工具
+[23:53:58] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  *希望你在无为度过愉快的时间 ~
+[23:53:58] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] ------------------------ ? ? -------------------------
+[23:53:58] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] 成功登录账号
+[23:54:19] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]  Okgogogo>>: 1
+[23:56:04] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [无为君]发现BUG请及时联系腐竹处理，以免回档造成更大损失！
+[23:56:47] [main/INFO] [FML]: Applying holder lookups
+[23:56:47] [main/INFO] [FML]: Holder lookups applied
